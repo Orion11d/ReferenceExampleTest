@@ -1,5 +1,5 @@
 ﻿//Первый проэкт
-//Использование приема данних по ссылке
+//Использование передачи данних по ссылке
 using System;
 using System.Collections.Generic;
 using System.Linq;

@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Первый проэкт
+//Использование приема данних по ссылке
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,6 +24,7 @@ namespace TestRef
             RefExample(ref x, ref y);
             Console.WriteLine(x + " " + y);
             Console.ReadLine();
+            
 
         }
     }
